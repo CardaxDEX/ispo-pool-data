@@ -1,0 +1,6 @@
+{
+  "name": "Cardax 1",
+  "description": "Cardax Stake Pool 1: Delegations made after the stake pool is saturated will not earn CDX rewards.",
+  "ticker": "CDX1",
+  "homepage": "https://cardax.io"
+}
