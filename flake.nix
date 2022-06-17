@@ -13,7 +13,7 @@
         inherit system;
       };
 
-      poolMetadataFor = system: cardax-ispo.packages."${system}".pool-metadata;
+      poolMetadataFor = system: cardax-ispo.pool-metadata;
     in
     flake-utils.lib.eachSystem [ "x86_64-linux" ]
       (system:

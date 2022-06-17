@@ -509,11 +509,11 @@
         "terranix": "terranix"
       },
       "locked": {
-        "lastModified": 1655498191,
-        "narHash": "sha256-G+7elmCXdqjYGSLO3rLmFZhr0kdARe/EeKCuNIXPHqc=",
+        "lastModified": 1655504318,
+        "narHash": "sha256-jOwARvxRPSju6EcpdwWNE2Upch1yaq5Z1ORIxrY20nQ=",
         "ref": "refs/heads/main",
-        "rev": "c167a912dd1e73a87e48c3eab7ef7b100c93ad16",
-        "revCount": 68,
+        "rev": "171176f39b1cdc54e5730f06d71e5a249f3f94cd",
+        "revCount": 72,
         "type": "git",
         "url": "ssh://git@github.com/CardaxDEX/ispo"
       },
