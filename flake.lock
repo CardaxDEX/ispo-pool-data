@@ -509,11 +509,11 @@
         "terranix": "terranix"
       },
       "locked": {
-        "lastModified": 1655504318,
-        "narHash": "sha256-jOwARvxRPSju6EcpdwWNE2Upch1yaq5Z1ORIxrY20nQ=",
+        "lastModified": 1655806741,
+        "narHash": "sha256-CAbYZ6q/s6S1PhE9n2wFYofm4zJh3OV/LLYHrCTpg+Y=",
         "ref": "refs/heads/main",
-        "rev": "171176f39b1cdc54e5730f06d71e5a249f3f94cd",
-        "revCount": 72,
+        "rev": "140ab591e741f75e398121efa3ba693d8366064d",
+        "revCount": 95,
         "type": "git",
         "url": "ssh://git@github.com/CardaxDEX/ispo"
       },
@@ -1743,11 +1743,11 @@
     },
     "nixpkgs_7": {
       "locked": {
-        "lastModified": 1655278232,
-        "narHash": "sha256-H6s7tnHYiDKFCcLADS4sl1sUq0dDJuRQXCieguk/6SA=",
+        "lastModified": 1655456688,
+        "narHash": "sha256-j2trI5gv2fnHdfUQFBy957avCPxxzCqE8R+TOYHPSRE=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "8b538fcb329a7bc3d153962f17c509ee49166973",
+        "rev": "d17a56d90ecbd1b8fc908d49598fb854ef188461",
         "type": "github"
       },
       "original": {

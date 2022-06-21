@@ -12,15 +12,13 @@
       nixpkgsFor = system: import nixpkgs {
         inherit system;
       };
-
-      poolMetadataFor = system: cardax-ispo.pool-metadata;
     in
     flake-utils.lib.eachSystem [ "x86_64-linux" ]
       (system:
         let
           pkgs = nixpkgsFor system;
 
-          poolMetadata = poolMetadataFor system;
+          poolMetadata = cardax-ispo.poolMetadata;
 
           fetchPoolMetadata = pkgs.writeShellScriptBin "fetch-pool-metadata" ''
             cp ${poolMetadata}/* .
